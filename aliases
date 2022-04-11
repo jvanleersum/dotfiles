@@ -4,3 +4,11 @@ alias speedtest="curl -s https://raw.githubusercontent.com/sivel/speedtest-cli/m
 
 # Quickly serve the current directory as HTTP
 alias serve='ruby -run -e httpd . -p 8000' # Or python -m SimpleHTTPServer :)
+export GOOGLE_APPLICATION_CREDENTIALS=/Users/judithvanleersum/code/jvanleersum/gcp/wagon-bootcamp-311212-dd2b1aba2f66.json
+
+alias jn='jupyter notebook'
+alias jl='jupyter lab'
+alias dt='cd ~/code/jvanleersum/data-challenges'
+alias lw='pyenv activate lewagon'
+alias too='pyenv activate TheOtherOption'
+alias and='open /Applications/Android\ Studio.app'
