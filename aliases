@@ -9,6 +9,7 @@ export GOOGLE_APPLICATION_CREDENTIALS=/Users/judithvanleersum/code/jvanleersum/g
 alias jn='jupyter notebook'
 alias jl='jupyter lab'
 alias dt='cd ~/code/jvanleersum/data-challenges'
+alias fs='cd ~/code/jvanleersum/fullstack-challenges/'
 alias lw='pyenv activate lewagon'
 alias too='pyenv activate TheOtherOption'
 alias and='open /Applications/Android\ Studio.app'
